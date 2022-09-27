@@ -1,6 +1,6 @@
 # My very first website
 
-Welcome! [Code Institute] (https://codeinstitue.net)
+Welcome! [Code Institute](https://codeinstitue.net)
 
 ## h2
 ### h3
